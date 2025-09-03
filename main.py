@@ -1,5 +1,5 @@
-from Day5.current_accounts import CurrentAccounts
-from Day5.saving_accounts import SavingsAccount
+from current_accounts import CurrentAccounts
+from saving_accounts import SavingsAccount
 from bank_account import BankAccount
 
 
